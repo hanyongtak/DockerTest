@@ -35,3 +35,5 @@ CMD ["catalina.sh", "run"]
 # docker exec -it [컨테이너명] /bin/bash -> 터미널 접근 가능 (도커 컨테이너가 켜져있을 때 사용가능)
 
 # docker ps -> 실행중인 도커 컨테이너 목록
+
+===tak Git_Test==
